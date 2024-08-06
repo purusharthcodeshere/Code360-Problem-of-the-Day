@@ -1,5 +1,5 @@
-# Problem Statement (Easy)
-
+# Morse Code To English
+## Easy Problem Statement
 You are given a string of length N representing the morse code(s). You have to convert this code into the corresponding alphanumeric code containing the small-case English alphabets [a-z] and digits [0-9].  
 
 For your convenience, the full table for the 26 letters of the English alphabet and 10 numeric digits is given below:  
