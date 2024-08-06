@@ -6,7 +6,6 @@ public class Main {
  			* Read input as specified in the question.
  			* Print output as specified in the question.
 		*/
-
 		// Write your code here
 		Scanner sc = new Scanner(System.in);
 		int N = sc.nextInt();
@@ -18,8 +17,6 @@ public class Main {
 		sc.close();	
 		int maxSum = slidingWindow(nums);
 		System.out.println(maxSum);
-
-		
 	}
 
 	private static int slidingWindow(int[] nums) {
@@ -36,5 +33,4 @@ public class Main {
 
 		return maxSum;
 	}
-
 }
